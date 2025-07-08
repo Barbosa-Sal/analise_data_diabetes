@@ -33,7 +33,7 @@ A partir desse conjunto de dados, a presente análise busca identificar os fator
 |
 ├── referencias        <- Dicionários de dados.
 |
-├── imagens        <- Figuras gerados para serem usados em relatórios.
+├── imagens        <- Figuras de dominio publico para serem usados em relatórios.
 ```
 
 ## Configuração do ambiente
