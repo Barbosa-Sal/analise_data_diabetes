@@ -38,13 +38,13 @@ A partir desse conjunto de dados, a presente análise busca identificar os fator
 
 ## Configuração do ambiente
 
-1. Faça o clone do repositório que será criado a partir deste modelo.
+1. Faça o clone do repositório.
 
     ```bash
-    git clone ENDERECO_DO_REPOSITORIO
+    git clone git@github.com:Barbosa-Sal/analise_data_diabetes.git
     ```
 
-2. Crie um ambiente virtual para o seu projeto utilizando o gerenciador de ambientes de sua preferência.
+2. Crie um ambiente virtual para o seu projeto utilizando o `conda`.
 
       ```bash
       conda env export > ambiente.yml
